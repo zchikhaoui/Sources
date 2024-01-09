@@ -1,20 +1,21 @@
-    Définissez la notion de dérivée en calcul différentiel., Taux de variation instantané,3
-    Quelle est la somme des angles d'un triangle?, 180 degrés,1
-    Énoncez le postulat des parallèles en géométrie., Parallèles ne se rencontrent pas à l'infini,2
-    Quelle est la propriété fondamentale des nombres premiers?, Non divisible sauf par 1 et lui-même,1
-    Donnez la formule de l'accélération., Accélération = Variation de vitesse / Temps,1
-    Quelle est la formule de la décomposition en éléments simples dans le domaine des fractions rationnelles?, Décomposition en fractions simples,3
-    Quelle est la formule de la moyenne arithmétique?, M = (a₁ + a₂ + ... + an) / n,1
-    Expliquez le concept de nombre complexe., a + bi,2
-    Quelle est la formule du périmètre d'un cercle?, P = 2πr,2
-    Quelle est la formule du volume d'un cylindre?, V = πr²h,2
-    Quelle est la formule du binôme de Newton?, (a + b)^n,2
-    Définissez le terme "matrice" en mathématiques., Tableau rectangulaire d'éléments,3
-    Quelle est la formule du théorème de Pythagore?, c² = a² + b²,2
-    Quelle est la valeur de sin(60 degrés)?, √3/2,3
-    Expliquez le principe du produit scalaire en algèbre linéaire., Produit de deux vecteurs,2
-    Quelle est la formule de la loi des cosinus en trigonométrie?, c² = a² + b² - 2ab * cos(γ),3
-    Quelle est la valeur de cos(0 degré)?, 1,2
-    Quelle est la valeur de log10(1000)?, 3,2
-    Quelle est la formule du travail en physique?, Force × Distance,1
-    Quelle est la définition de la masse?, Quantité de matière,1
+Question,Reponse,Niveau
+Définissez la notion de dérivée en calcul différentiel., Taux de variation instantané,3
+Quelle est la somme des angles d'un triangle?, 180 degrés,1
+Énoncez le postulat des parallèles en géométrie., Parallèles ne se rencontrent pas à l'infini,2
+Quelle est la propriété fondamentale des nombres premiers?, Non divisible sauf par 1 et lui-même,1
+Donnez la formule de l'accélération., Accélération = Variation de vitesse / Temps,1
+Quelle est la formule de la décomposition en éléments simples dans le domaine des fractions rationnelles?, Décomposition en fractions simples,3
+Quelle est la formule de la moyenne arithmétique?, M = (a₁ + a₂ + ... + an) / n,1
+Expliquez le concept de nombre complexe., a + bi,2
+Quelle est la formule du périmètre d'un cercle?, P = 2πr,2
+Quelle est la formule du volume d'un cylindre?, V = πr²h,2
+Quelle est la formule du binôme de Newton?, (a + b)^n,2
+Définissez le terme "matrice" en mathématiques., Tableau rectangulaire d'éléments,3
+Quelle est la formule du théorème de Pythagore?, c² = a² + b²,2
+Quelle est la valeur de sin(60 degrés)?, √3/2,3
+Expliquez le principe du produit scalaire en algèbre linéaire., Produit de deux vecteurs,2
+Quelle est la formule de la loi des cosinus en trigonométrie?, c² = a² + b² - 2ab * cos(γ),3
+Quelle est la valeur de cos(0 degré)?, 1,2
+Quelle est la valeur de log10(1000)?, 3,2
+Quelle est la formule du travail en physique?, Force × Distance,1
+Quelle est la définition de la masse?, Quantité de matière,1
